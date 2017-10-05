@@ -1,2 +1,3 @@
 # Tarjeta de Crédito válida:
-## Función que permite verificar si un input numérico de una tarjeta de crédito dado por el usuario corresponde a un número válido de tarjeta de crédito.
+## Usaremos una función que permite verificar si un input numérico de una tarjeta de crédito dado por el usuario corresponde a un número válido de tarjeta de crédito.
+### Primero creamos una función que mediante un prompt recoja el número de tarjeta que está intentando validar el usuario, lo convetimos a un array de datos mediante el método split() y luego aplicamos el método reverse() para poder dar vuelta el orden de los elementos del array
